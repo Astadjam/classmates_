@@ -1,0 +1,9 @@
+{
+    "firstname": "Yahaya",
+    "lastname": "BATHILY",
+    "birthdate": "2003-02-17",
+    "nationality": "Bamako, Mali",
+    "images": ["BATHILY.png"],
+    "description": "I started coding at the age of 8 when I built a simple game to help my younger siblings learn mathematics. This early start in programming, combined with my passion for education, has shaped my career focus on educational technology. I've since developed numerous educational games and applications, each inspired by the learning challenges I observed in my own family and community. Created an award-winning educational technology platform that has transformed how programming is taught in African schools. The platform uses gamification and interactive learning techniques to make coding accessible to students from diverse backgrounds. It has been adopted by over 200 schools across 15 African countries, reaching more than 50,000 students. The project has received funding from major tech companies and has been recognized by UNESCO for its contribution to digital literacy in developing regions.",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'><path fill='#f6d44a' d='M10 4H22V28H10z'></path><path d='M5,4h6V28H5c-2.208,0-4-1.792-4-4V8c0-2.208,1.792-4,4-4Z' fill='#53b44b'></path><path d='M25,4h6V28h-6c-2.208,0-4-1.792-4-4V8c0-2.208,1.792-4,4-4Z' transform='rotate(180 26 16)' fill='#be2a2c'></path><path d='M27,4H5c-2.209,0-4,1.791-4,4V24c0,2.209,1.791,4,4,4H27c2.209,0,4-1.791,4-4V8c0-2.209-1.791-4-4-4Zm3,20c0,1.654-1.346,3-3,3H5c-1.654,0-3-1.346-3-3V8c0-1.654,1.346-3,3-3H27c1.654,0,3,1.346,3,3V24Z' opacity='.15'></path><path d='M27,5H5c-1.657,0-3,1.343-3,3v1c0-1.657,1.343-3,3-3H27c1.657,0,3,1.343,3,3v-1c0-1.657-1.343-3-3-3Z' fill='#fff' opacity='.2'></path></svg>"
+}
