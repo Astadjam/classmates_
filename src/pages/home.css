@@ -1,0 +1,11 @@
+.Home {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 40px;
+    justify-content: center;
+}
+
+.Home .Card {
+    margin-top: 40px;
+    cursor: pointer;
+}

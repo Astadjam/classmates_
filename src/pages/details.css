@@ -1,0 +1,33 @@
+.Details swiper-container{
+    width: 400px;
+    height: 400px;
+    max-width: 90%;
+    margin: auto;
+}
+
+.Details swiper-slide,
+.Details .img-container{
+    background-color: #0b106b;
+}
+
+.Details .img-container{
+    width: 400px;
+    height: 400px;
+}
+
+.Details img{
+    display: block;
+    margin: auto;
+}
+
+.Details .swiper-slide-shadow{
+    background-color: #0b106b;
+}
+
+.Details h2{
+    text-align: center;
+}
+
+.Details .description {
+    padding: 0px 40px 40px 40px;
+}
